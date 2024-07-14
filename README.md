@@ -27,7 +27,7 @@ A notes taking app with Async storage for notes storage.
 3. Run the app.
    
    ```sh
-   expo start --android 
+   expo start
    ```
 
 
