@@ -1,5 +1,5 @@
 # Notaker
-A notes Taking app with Async storage for notes storage. 
+A notes taking app with Async storage for notes storage. 
 
 ### Built With
 
@@ -14,11 +14,11 @@ A notes Taking app with Async storage for notes storage.
 
 ### Installation
 
-1. Clone the repo
+1. Clone the repo.
    ```sh
    git clone https://github.com/RinzlerN26/Notaker.git
    ```
-3. Install NPM packages
+3. Install npm packages.
    ```sh
    npm install
    ```
