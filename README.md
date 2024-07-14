@@ -15,16 +15,19 @@ A notes taking app with Async storage for notes storage.
 ### Installation
 
 1. Clone the repo.
+   
    ```sh
    git clone https://github.com/RinzlerN26/Notaker.git
    ```
 3. Install npm packages.
+   
    ```sh
    npm install
    ```
-3. Run the app and press a to run the app on an android emulator after executing the below command.
+3. Run the app.
+   
    ```sh
-   expo start 
+   expo start --android 
    ```
 
 
